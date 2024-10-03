@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Im green as grass and about to begin my learning journey so please forgive me
 <!--
 **DanWood00/DanWood00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
